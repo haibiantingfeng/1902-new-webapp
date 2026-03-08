@@ -4,3 +4,13 @@ pandas==2.2.2
 plotly==5.22.0
 numpy==1.26.4
 python-dotenv==1.0.1
+# 核心框架
+streamlit>=1.32.0
+# 数据处理
+pandas>=2.2.0
+yfinance>=0.2.38
+# 可视化（解决报错核心）
+plotly>=5.22.0
+# 可选：后续预测模型用
+scikit-learn>=1.4.0
+
